@@ -1,0 +1,68 @@
+1. tfidf_SVM Combined- Trained on whole tested on whole.
+
+
+              precision    recall  f1-score   support
+
+         0.0       0.74      0.82      0.78       163
+         1.0       0.75      0.66      0.70       138
+
+    accuracy                           0.74       301
+   macro avg       0.75      0.74      0.74       301
+weighted avg       0.74      0.74      0.74       301
+
+
+2. tfids_SVM Combined- Trained on whole and tested on all.
+
+Report for  Are E-Cigarettes safe?               precision    recall  f1-score   support
+
+					 0.0       0.73      0.81      0.77        47
+					 1.0       0.68      0.58      0.62        33
+
+				    accuracy                           0.71        80
+				   macro avg       0.70      0.69      0.70        80
+				weighted avg       0.71      0.71      0.71        80
+
+24
+33
+Report for  Does MMR Vaccine lead to autism in children?               precision    recall  f1-score   support
+
+								 0.0       0.78      0.94      0.85        33
+								 1.0       0.88      0.62      0.73        24
+
+							    accuracy                           0.81        57
+							   macro avg       0.83      0.78      0.79        57
+							weighted avg       0.82      0.81      0.80        57
+
+35
+26
+Report for  Does Sunlight exposure lead to skin cancer?               precision    recall  f1-score   support
+
+								 0.0       0.62      0.69      0.65        26
+								 1.0       0.75      0.69      0.72        35
+
+							    accuracy                           0.69        61
+							   macro avg       0.69      0.69      0.69        61
+							weighted avg       0.69      0.69      0.69        61
+
+37
+16
+Report for  Does Vitamin C prevent common cold?               precision    recall  f1-score   support
+
+							 0.0       0.47      0.44      0.45        16
+							 1.0       0.76      0.78      0.77        37
+
+						    accuracy                           0.68        53
+						   macro avg       0.61      0.61      0.61        53
+						weighted avg       0.67      0.68      0.68        53
+
+9
+41
+Report for  Should women take HRT post-menopause?               precision    recall  f1-score   support
+
+							 0.0       0.89      0.95      0.92        41
+							 1.0       0.67      0.44      0.53         9
+
+						    accuracy                           0.86        50
+						   macro avg       0.78      0.70      0.73        50
+						weighted avg       0.85      0.86      0.85        50
+

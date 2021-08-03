@@ -1,0 +1,59 @@
+1. tfidf SVM unigram - Trained on Are E-Cigarettes safe? and tested on Are E-Cigarettes safe?
+
+
+              precision    recall  f1-score   support
+
+         0.0       0.76      0.94      0.84        47
+         1.0       0.86      0.58      0.69        33
+
+    accuracy                           0.79        80
+   macro avg       0.81      0.76      0.76        80
+weighted avg       0.80      0.79      0.78        80
+
+2.tfidf SVM unigram - Trained on Does MMR Vaccine lead to autism in children? and tested on Does MMR Vaccine lead to autism in children?.
+
+              precision    recall  f1-score   support
+
+         0.0       0.86      0.91      0.88        33
+         1.0       0.86      0.79      0.83        24
+
+    accuracy                           0.86        57
+   macro avg       0.86      0.85      0.85        57
+weighted avg       0.86      0.86      0.86        57
+
+
+3. tfidf SVM unigram - Trained on Does Sunlight exposure lead to skin cancer?  and tested on Does Sunlight exposure lead to skin cancer?.
+
+             precision    recall  f1-score   support
+
+         0.0       0.69      0.69      0.69        26
+         1.0       0.77      0.77      0.77        35
+
+    accuracy                           0.74        61
+   macro avg       0.73      0.73      0.73        61
+weighted avg       0.74      0.74      0.74        61
+
+
+
+4. tfidf SVM unigram- Trained on Does Vitamin C prevent common cold? and tested on Does Vitamin C prevent common cold?.
+
+             precision    recall  f1-score   support
+
+         0.0       0.62      0.62      0.62        16
+         1.0       0.84      0.84      0.84        37
+
+    accuracy                           0.77        53
+   macro avg       0.73      0.73      0.73        53
+weighted avg       0.77      0.77      0.77        53
+
+5. tfidf SVM unigram- Trained on Should women take HRT post-menopause? and tested on Should women take HRT post-menopause?.
+
+              precision    recall  f1-score   support
+
+         0.0       0.82      0.80      0.81        41
+         1.0       0.20      0.22      0.21         9
+
+    accuracy                           0.70        50
+   macro avg       0.51      0.51      0.51        50
+weighted avg       0.71      0.70      0.71        50
+

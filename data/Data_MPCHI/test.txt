@@ -1,0 +1,469 @@
+ID	Target	Tweet	Stance
+ID	Target	Tweet	Stance
+394	Are E-Cigarettes safe?	"The report concluded that ""There is no indication that EC users are exposed to dangerous levels of formaldehydes."""	FAVOR
+349	Are E-Cigarettes safe?	Nicotine is no more dangerous to health than coffee, but 90 percent of the public still consider it harmful, according to a report from the U.K.�s Royal Society for Public Health.	FAVOR
+400	Are E-Cigarettes safe?	The health effects on intensive e-cigarette users are unknown.	NONE
+353	Are E-Cigarettes safe?	Vapor e-liquid products contain chemicals known to the State of California to cause cancer, birth defects, and other reproductive harm.	AGAINST
+181	Are E-Cigarettes safe?	Researchers at the University of California, San Francisco followed a small group of smokers for a year and found no link between trying e-cigarettes and quitting, or cutting down on smoking.	NONE
+408	Are E-Cigarettes safe?	"In June 2014, the Royal College of Physicians stated that, ""On the basis of available evidence, the RCP believes that e-cigarettes could lead to significant falls in the prevalence of smoking in the UK, prevent many deaths and episodes of serious illness, and help to reduce the social inequalities in health that tobacco smoking currently exacerbates."""	FAVOR
+296	Are E-Cigarettes safe?	There are nicotine-free e-cigarette cartridges for those who want the experience of smoking but not the nicotine.	NONE
+244	Are E-Cigarettes safe?	In an attempt to quit the tobacco habit as many as one-fifth of smokers have tried e-cigarettes. 	NONE
+316	Are E-Cigarettes safe?	E-Cigarettes contain ONLY nicotine.	FAVOR
+195	Are E-Cigarettes safe?	E-cigarettes are battery-powered devices that heat a nicotine-containing liquid, which is inhaled much like a cigarette.	NONE
+291	Are E-Cigarettes safe?	Through a quirk of a ruling based on the 2009 Family Smoking Prevention and Tobacco Control Act,, as long as manufacturers do not make health claims for them the FDA cannot regulate e-cigarettes as drug/device combinations, even though that�s what they clearly are.	NONE
+70	Are E-Cigarettes safe?	However, no studies have been conducted to determine that the e-cigarette vapor is not carcinogenic, and there are other potential risks associated with these devices.	AGAINST
+79	Are E-Cigarettes safe?	formaldehyde, acetaldehyde, acrolein, and glyoxal which are potential human carciongens, are frequently identified in e-cigarette aerosols, they are produced when the liquid is heated by the heating element, to high temperatures.	NONE
+55	Are E-Cigarettes safe?	Because there is a lack of production standards and controls, the e-liquid cleanliness frequently is not dependable, and testing of some products has shown the existence of toxic substances.	AGAINST
+141	Are E-Cigarettes safe?	The identification of these radicals in the aerosols means that we can't just say e-cigarettes are safe because they don't contain tobacco.	AGAINST
+173	Are E-Cigarettes safe?	Electronic cigarette vendors have rubbished calls from health chiefs for them to be banned in public places.	NONE
+56	Are E-Cigarettes safe?	The German Cancer Research Center in Germany released a report stating that e-cigarettes cannot be considered safe, in part due to technical flaws that have been found.	AGAINST
+290	Are E-Cigarettes safe?	This proliferation of flavors has led to concerns that e-cigarettes are attractive to children and could facilitate getting them hooked on nicotine or even serve as a �gateway� to real smoking.	NONE
+165	Are E-Cigarettes safe?	Smoking prevalence in England has been declining from 20% in 2012 to 18.4% in 2014, and in 2014 smoking cessation rates were the highest since at least 2008.	NONE
+324	Are E-Cigarettes safe?	Repeatedly inhaling these over many years could cause health problems.	AGAINST
+84	Are E-Cigarettes safe?	However at the low amount of nicotine provided by e-cigarettes fatal overdose from use is unlikely.	FAVOR
+9	Are E-Cigarettes safe?	but long-term studies regarding the effects of constant use of e-cigarettes are needed.	NONE
+401	Are E-Cigarettes safe?	The effect on population health from e-cigarettes is unknown.	NONE
+375	Are E-Cigarettes safe?	Reviews on the safety of electronic cigarettes have reached significantly different conclusions.	NONE
+370	Are E-Cigarettes safe?	At least 43 states have placed age restrictions on the sale or possession of e-cigarette products.	AGAINST
+402	Are E-Cigarettes safe?	"The English National Health Service has stated, ""While e-cigarettes may be safer than conventional cigarettes, we don�t yet know the long-term effects of vaping on the body."""	FAVOR
+113	Are E-Cigarettes safe?	Many people think that e-ciggarettes are less harmful than cigarettes.	FAVOR
+294	Are E-Cigarettes safe?	 it is not implausible that �vaping� (as inhaling e-cigarette vapor is commonly called) might be safer than tobacco cigarettes.	FAVOR
+93	Are E-Cigarettes safe?	As of 2014, there are no conclusions on the possible hazards of pregnant women using e-cigarettes, and there is a developing research on the negative effects of nicotine on prenatal brain development.	FAVOR
+116	Are E-Cigarettes safe?	Morris said the lower nicotine levels are beneficial for those looking to quit smoking.	NONE
+30	Are E-Cigarettes safe?	In December 2014, a one-year-old child in Fort Plain, New York died after an accidental ingestion of nicotine liquid.	AGAINST
+137	Are E-Cigarettes safe?	"Previous studies have found low levels of aldehydes, chemical compounds that can cause oxidative stress and cell damage, in e-cigarette ""smoke."""	AGAINST
+145	Are E-Cigarettes safe?	Although the popularity and use of e-cigarettes continues to increase, there is a lack of data on their potential health effects.	AGAINST
+78	Are E-Cigarettes safe?	The short-term toxicity of e-cigarette use appears to be low, with the exception for some people with reactive airways.	FAVOR
+33	Are E-Cigarettes safe?	The California Poison Control System reported 35 cases of e-cigarette contact from 2010 to 2012, 14 were in children and 25 were from accidental contact.	AGAINST
+399	Are E-Cigarettes safe?	A 2014 review recommended that e-cigarettes could be adequately regulated for consumer safety with existing directives on the design of electronic products.	NONE
+285	Are E-Cigarettes safe?	Last week, researchers reported that smoking e-cigarettes provides�more toxins�than real cigarettes.	AGAINST
+265	Are E-Cigarettes safe?	There is also the concern for long-term effects of e-cigarettes.	NONE
+277	Are E-Cigarettes safe?	The narrowing and hardening of arteries are well-known factors that pose risk to the heart.	NONE
+360	Are E-Cigarettes safe?	As the e-liquid does not contain these carcinogenic additives it was believed the lung disease risk was minimal in comparison.	FAVOR
+15	Are E-Cigarettes safe?	Adverse effects like throat irritation could be the result of exposure to nicotine, nicotine solvents, or toxicants in the aerosol from e-cigarettes.	AGAINST
+409	Are E-Cigarettes safe?	A 2014 systematic review found that the limited evidence suggests that e-cigarettes are probably safer than tobacco smoke.	FAVOR
+0	Are E-Cigarettes safe?	"The American Cancer Society has stated, The makers of e-cigarettes say that the ingredients are ""safe,"" but this only means the ingredients have been found to be safe to eat."	FAVOR
+126	Are E-Cigarettes safe?	Earlier this year, Public Health England advocated for replacing traditional tobacco with e-cigarettes since they are supposed to be safer.	FAVOR
+271	Are E-Cigarettes safe?	Regular cigarettes contain about 4,000 toxic chemicals and have been linked to a wide range of diseases like lung cancer, heart disease and stroke.	NONE
+184	Are E-Cigarettes safe?	That said, very few carcinogenic chemicals have been found in e-cigarette vapours, and those present only appear to be in trace quantities - far less than in burning tobacco and similar or less than in recognised nicotine replacement therapies.	FAVOR
+336	Are E-Cigarettes safe?	According to the American Lung Association, cigarette smoke contains more than 7000 chemicals, 69 of which are known carcinogens.	NONE
+383	Are E-Cigarettes safe?	The evidence suggests e-cigarettes produce less harmful effects than tobacco.	FAVOR
+73	Are E-Cigarettes safe?	While e-cigarettes cannot be considered safe because there is no safe level for carcinogens, they are safer than tobacco cigarettes.	FAVOR
+354	Are E-Cigarettes safe?	After e-cigarettes started exploding mid puff, many suggested the benefits still outweighed the risks.	FAVOR
+237	Are E-Cigarettes safe?	It�s in the shift from the former category to the latter that the disease-reducing potential of e-cigarettes lies.	FAVOR
+90	Are E-Cigarettes safe?	A 2014 review found e-cigarettes emissions contain the heavy metals nickel, tin, and chromium, when testing first generation cartimizers of low quality.	NONE
+272	Are E-Cigarettes safe?	Electronic cigarettes were considered safer than the traditional cigarettes as they provide less nicotine than the latter, and do not contain the cancer-causing toxins or produce harmful substances associated with smoking real cigarettes (tar and carbon monoxide).	FAVOR
+358	Are E-Cigarettes safe?	Heating the nictonie solution in e-cigarettes produces an aerosol that can be inhaled (vaping).	NONE
+94	Are E-Cigarettes safe?	A 2015 review concluded that no amount of nicotine is safe for pregnant women.	AGAINST
+72	Are E-Cigarettes safe?	However, in comparison to traditional cigarette smoke, the toxic substance levels identified in e-cigarette vapor were 9- to 450-fold less.	FAVOR
+42	Are E-Cigarettes safe?	In the UK fire service call-outs had risen from 43 in 2013 to 62 in 2014.	AGAINST
+395	Are E-Cigarettes safe?	E-cigarette users are exposed to potentially harmful nicotine.	AGAINST
+76	Are E-Cigarettes safe?	"A 2014 review found ""Various chemical substances and ultrafine particles known to be toxic, carcinogenic and/or to cause respiratory and heart distress have been identified in e-cigarette aerosols, cartridges, refill liquids and environmental emissions."""	AGAINST
+39	Are E-Cigarettes safe?	House and car fires and skin burns have resulted from the explosions.	NONE
+362	Are E-Cigarettes safe?	Particles in tobacco-based cigarettes have a median size of 0.3 to 0.5 microns, but in e-cigarettes they are a lot smaller at 0.18 to 0.27 microns.	NONE
+25	Are E-Cigarettes safe?	Poisoning associated with e-cigarettes may happen by ingestion, inhalation, or absorption.	AGAINST
+398	Are E-Cigarettes safe?	The health community, pharmaceutical industry, and other groups have raised concerns about the emerging phenomenon of e-cigarettes including concern over as yet unknown health risks from long term use of e-cigarettes.	AGAINST
+312	Are E-Cigarettes safe?	An evidence-based stance towards the question of whether e-cigarettes are an effective smoking cessation aid is, �We don�t know yet.	NONE
+104	Are E-Cigarettes safe?	"Among smokers who had heard of e-cigarettes but never tried them, this ""perception of harm has nearly doubled from 12% in 2014 to 22% in 2015."""	AGAINST
+22	Are E-Cigarettes safe?	In pediatric patients, accidental exposures include ingesting of e-liquids and inhaling of e-cigarette vapor. 	AGAINST
+46	Are E-Cigarettes safe?	A spokesman for the Tobacco Vapor Electronic Cigarette Association said that e-cigarettes do not pose a problem if they are packed correctly in static-free packaging, but that irresponsible people may sometimes pack them carelessly or tamper with them.	FAVOR
+77	Are E-Cigarettes safe?	The toxicity of e-cigarettes and e-liquid can vary greatly, as there are differences in construction and materials in the delivery device, kind and origin of ingredients in the e-liquid, and the use or non-use of good manufacturing practices and quality control approaches.	AGAINST
+82	Are E-Cigarettes safe?	Nicotine is regarded as a potentially lethal poison.	NONE
+132	Are E-Cigarettes safe?	E-cigarettes deliver nicotine in water vapor instead of by burning tobacco.	NONE
+118	Are E-Cigarettes safe?	Without any FDA regulation there is no conclusive way to say that these are a safe product.	AGAINST
+57	Are E-Cigarettes safe?	Flaws in e-cigarettes include leaking cartridges, accidental contact with nicotine when changing cartridges, and potential of unintended overdose.	NONE
+357	Are E-Cigarettes safe?	Unlike normal cigarettes which burn dried tobacco, e-cigarettes use a battery-powered device to heat a nicotine solution known as e-liquid.	NONE
+24	Are E-Cigarettes safe?	Unregulated e-cigarettes can be a risk to young children.	AGAINST
+17	Are E-Cigarettes safe?	However no direct relationship has been proven between these effects and e-cigarette use, and some of them may be due to existing health problems.	FAVOR
+194	Are E-Cigarettes safe?	 US researchers have found that three in four e-cigarettes use a flavoured liquid that has been linked to severe respiratory disease.	AGAINST
+249	Are E-Cigarettes safe?	Wells Fargo Securities analyst Bonnie Herzog estimated there was $2 billion in overall e-cig revenue last year.	NONE
+31	Are E-Cigarettes safe?	Calls to U.S. poison control centers related to e-cigarette exposures involved inhalations, eye exposures, skin exposures, and ingestion, in both adults and young children.	AGAINST
+287	Are E-Cigarettes safe?	According to e-cigarette manufacturers, the vapor inhaled from e-cigarettes does not contain tar or many of the toxic chemicals found in real cigarette smoke.	NONE
+322	Are E-Cigarettes safe?	Despite their advantages, e-cigarettes are not completely risk-free.	AGAINST
+202	Are E-Cigarettes safe?	The widespread belief that e-cigarettes are safer is based on the fact that they contain only the drug nicotine, and almost none of the other well known poisons found in tobacco smoke.	FAVOR
+274	Are E-Cigarettes safe?	According to a new study presented at the American Society of Cell Biology annual meeting in New Orleans, a prolonged exposure to nicotine, either from a real cigarette or the battery operated device can damage the heart, CNN�reported.	AGAINST
+389	Are E-Cigarettes safe?	E-cigarette vapor contains fewer toxic substances, and lower concentrations of potential toxic substances than cigarette smoke.	FAVOR
+238	Are E-Cigarettes safe?	Despite our growing knowledge that smoking tobacco is bad for us more than 40 million Americans are cigarette smokers.	NONE
+5	Are E-Cigarettes safe?	"The US National Association of County and City Health Officials has stated, ""Public health experts have expressed concern that e-cigarettes may increase nicotine addiction and tobacco use in young people."""	AGAINST
+45	Are E-Cigarettes safe?	The International Civil Aviation Organization, a United Nations agency, also recommends prohibiting e-cigarettes in checked luggage.	AGAINST
+110	Are E-Cigarettes safe?	However, high-voltage use released enough formaldehyde-containing compounds to increase a person's lifetime risk of cancer five to 15 times higher than the risk caused by long-term smoking, the study said.	AGAINST
+258	Are E-Cigarettes safe?	�Health professionals may consider advising smokers unable or unwilling to quit through other routes to switch to e-cigs as a safer alternative to smoking, and as a possible pathway to complete cessation of nicotine use.�	FAVOR
+404	Are E-Cigarettes safe?	In August 2014, the Forum of International Respiratory Societies stated that e-cigarettes have not been demonstrated to be safe.	AGAINST
+381	Are E-Cigarettes safe?	A 2014 Cochrane review found no serious adverse effects reported in e-ciggarette trials.	FAVOR
+280	Are E-Cigarettes safe?	If taking nicotine for a short time can lead to complete cessation of smoking, e-cigarette included, then it will be beneficial to take nicotine for a short time as a bridge to smoking cessation.	NONE
+332	Are E-Cigarettes safe?	There is nothing to light since e-cigarettes run on lithium batteries.	NONE
+3	Are E-Cigarettes safe?	In the UK National Institute for Health and Care Excellence (NICE) guideline did not recommend e-cigarettes as there are questions regarding the safety, efficacy, and quality of these products.	AGAINST
+18	Are E-Cigarettes safe?	Many of the observed negative effects from e-cigarette use concerning the nervous system and the sensory system are probably related to nicotine overdose or withdrawal.	AGAINST
+247	Are E-Cigarettes safe?	Using electronic cigarettes has the same short-term effects on the lungs as smoking conventional tobacco cigarettes, a study finds.	AGAINST
+60	Are E-Cigarettes safe?	The long-term health impacts of e-cigarette use are unknown.	NONE
+392	Are E-Cigarettes safe?	A 2015 review found that later-generation e-cigarettes set at higher power may generate equal or higher levels of formaldehye  compared to smoking.	AGAINST
+326	Are E-Cigarettes safe?	But the evidence currently available suggests very low levels of toxins in e-cigarette users.	FAVOR
+63	Are E-Cigarettes safe?	The chemicals and toxic substances included in e-cigarettes have not been completely disclosed and their safety is not guaranteed.	AGAINST
+310	Are E-Cigarettes safe?	I can understand provisionally concluding that e-cigarettes are safer than cigarettes (they likely are)	FAVOR
+223	Are E-Cigarettes safe?	If unreasoning fear carries the day, those regulations will restrict information about and access to a potentially lifesaving product, thereby increasing smoking-related illness and death in the name of public health and consumer protection.	NONE
+140	Are E-Cigarettes safe?	Further research is needed to determine the health effects of highly reactive free radicals from e-cigarettes.	NONE
+153	Are E-Cigarettes safe?	But others see e-cigarettes as a useful tool for those either quitting smoking or trying to find an alternative to traditional cigarettes.	FAVOR
+407	Are E-Cigarettes safe?	A 2015 Public Health England report stated that e-cigarettes are estimated to be 95% less harmful than smoking.	FAVOR
+346	Are E-Cigarettes safe?	The report stated that the vapors �pose a serious health threat to adolescents and fetuses and increase exposure of nonsmokers and bystanders to nicotine and a number of toxicants.�	AGAINST
+325	Are E-Cigarettes safe?	This is a possibility, and there is not yet enough long-term research on e-cigarettes to know for sure.	AGAINST
+124	Are E-Cigarettes safe?	Inhaled, the chemical diacetyl causes inflammation, scarring, and constriction of the bronchioles reducing airflow.	AGAINST
+131	Are E-Cigarettes safe?	According to the Centers for Disease Control and Prevention, more than 20 percent of young adults have tried e-cigarettes, and current smokers and recent former smokers are most likely to have used them.	NONE
+275	Are E-Cigarettes safe?	Exposure to nicotine is widely known to increase blood pressure and heart rate.	NONE
+108	Are E-Cigarettes safe?	Health experts have long known that formaldehyde and other toxic chemicals are present in cigarette smoke.	NONE
+101	Are E-Cigarettes safe?	The toxic effects identified with e-cigarette refill liquids on stem cells may be interpreted as embryonic death or birth defects.	AGAINST
+192	Are E-Cigarettes safe?	Whilst electronic cigarettes are a relatively new development compared to conventional tobacco products, there is an increasing view, amongst many in the area of Public Health, that the risks associated with their use, are significantly less than those associated with smoking traditional combustible tobacco products.	FAVOR
+29	Are E-Cigarettes safe?	In the United States, a child died after ingesting liquid nicotine in 2014, and another in Israel in 2013.	AGAINST
+261	Are E-Cigarettes safe?	According to a study, �Among U.S. quitline callers, e-cigarette users were less likely to have quit at seven months than nonusers.�	NONE
+390	Are E-Cigarettes safe?	Metal parts of e-cigarettes in contact with the e-liquid can contaminate it with metals.	AGAINST
+266	Are E-Cigarettes safe?	Electronic cigarettes, or e-cigarettes, are devices for delivering nicotine vapour instead of tobacco smoke.	NONE
+114	Are E-Cigarettes safe?	According to the New England Journal of Medicine, studies showed e-cig users are five-to-15 times more likely to get formaldehyde-related cancer, compared to regular cigarette smokers.	AGAINST
+231	Are E-Cigarettes safe?	No one can say whether inhaling vapor containing nicotine, flavoring and propylene glycol, which the FDA has approved as an ingredient in food and medicine, is safer than inhaling smoke?	NONE
+75	Are E-Cigarettes safe?	"In 2014, The World Lung Foundation stated that ""Researchers find that many e-cigarettes contain toxins, contaminants and carcinogens that conflict with the industry�s portrayal of its products as purer, healthier alternatives."""	AGAINST
+368	Are E-Cigarettes safe?	Public health officials counter that it's too early to know very much about the health effects of e-cigarettes, especially on young people.	NONE
+203	Are E-Cigarettes safe?	E-cigarettes are an emerging public health concern as they gain popularity among current and former smokers as well as those who have never smoked, including teenagers.	NONE
+16	Are E-Cigarettes safe?	Major adverse effects of e-cigarettes reported to the FDA included hospitalizations for pneumonia, congestive heart failure, seizure, rapid heart rate, and burns.	AGAINST
+66	Are E-Cigarettes safe?	While there is variability in the ingredients and concentrations of ingredients in e-cigarette liquids, tobacco smoke contains thousands of chemicals, most of which are not understood and many of which are known to be harmful.	AGAINST
+172	Are E-Cigarettes safe?	Electronic cigarettes are harmless and enjoyable.	FAVOR
+ID	Target	Tweet	Stance
+33	Should women take HRT post-menopause?	There are also ne therapies, such as progestogens and testosterone.	NONE
+6	Should women take HRT post-menopause?	The study, published in the April 4, 2007, issue of JAMA, also discovered that increased risk of heart disease in older women occurs primarily in those who have hot flashes and night sweats, though it remains unclear whether this explained their higher risk on hormone therapy.	AGAINST
+181	Should women take HRT post-menopause?	Benefits and risks of bioidentical hormones are the same as for other hormone products, according to the U.S. Food and Drug Administration.	NONE
+86	Should women take HRT post-menopause?	Researchers warned that even taking the treatment for less than five years, as is common medical practice, increased the risk of succumbing to ovarian cancer.	AGAINST
+155	Should women take HRT post-menopause?	Ovarian cancer is a rare condition but all the risks and benefits of hormone therapy need to be carefully considered when treating women at menopause.	NONE
+178	Should women take HRT post-menopause?	Progestin is a synthetic version of progesterone, a hormone that helps protect the uterus.	NONE
+194	Should women take HRT post-menopause?	In the decade since, combined HRT use has declined, as have rates of estrogen-receptor-positive  breast cancer in post-menopausal women.	AGAINST
+104	Should women take HRT post-menopause?	This is thought to be linked to the amount of oestrogen in your body, because being overweight or obese after the menopause causes more oestrogen to be produced.	NONE
+9	Should women take HRT post-menopause?	And in 2010, the news about combined HRT contributing to more deadly forms of breast cancer and mortality led more practitioners to reconsider the way they counseled women about hormone therapy, according to some reports.	AGAINST
+233	Should women take HRT post-menopause?	Therefore, for some years doctors have recommended that the only women who should take estrogen without progestin on a continuous basis are women who have had a hysterectomy.	NONE
+230	Should women take HRT post-menopause?	After five years of taking a combination of estrogen and synthetic progesterone, women in the national WHI clinical were found to be at such high risk for life-threatening diseases such as cancer, that their portion of the trial was halted three years early in 2002.	AGAINST
+212	Should women take HRT post-menopause?	These data suggest that the increased risk for breast cancer that accompanies use of HRT is reversible within a fairly short period following discontinuation of the treatment.	AGAINST
+236	Should women take HRT post-menopause?	Researchers studied medical records dating as far back as 1973 of 44,421 women on ERT and found they had at least a 60 percent higher risk of ovarian cancer than women who had never used hormone replacement therapy.	AGAINST
+173	Should women take HRT post-menopause?	During menopause, a woman�s body begins to produce less estrogen and progesterone.	NONE
+66	Should women take HRT post-menopause?	The risks of hormone therapy may vary depending on whether estrogen is given alone or with a progestin, and depending on your current age and age at menopause, the dose and type of estrogen, and other health risks such as your risks of heart and blood vessel (cardiovascular) disease, cancer risks and family medical history.	NONE
+221	Should women take HRT post-menopause?	And in 2010, new research found that combined estrogen-progestin HRT increased the risk for more severe forms of breast cancer and increased a woman's chances of dying from the disease or other causes.	AGAINST
+218	Should women take HRT post-menopause?	Not only were women more likely to develop breast cancer if they took the hormones, researchers wrote, but their tumors tended to be larger and more advanced than breast cancers that developed in women who took a placebo.	AGAINST
+15	Should women take HRT post-menopause?	Still, even in these cases, women should be on the minimum dose to relieve their symptoms and consider tapering off of their medications over time.	NONE
+182	Should women take HRT post-menopause?	HRT may help alleviate some symptoms.	FAVOR
+24	Should women take HRT post-menopause?	Good diet will help lower your risk of bone loss, which increases as you age.	NONE
+120	Should women take HRT post-menopause?	Oestrogen-only HRT can only be given to women who have had a hysterectomy (they have no uterus).	NONE
+19	Should women take HRT post-menopause?	You may notice breast tenderness, headaches, bloating, and mood changes while you're on hormone replacement therapy, especially if you're taking progestin.	AGAINST
+112	Should women take HRT post-menopause?	The Daily Telegraph and other newspapers reported that these 2002 findings �triggered a collapse in confidence in hormone replacement therapy and the number of women taking it halved�.	AGAINST
+67	Should women take HRT post-menopause?	All of these risks should be considered in deciding whether hormone therapy might be an option for you.	NONE
+220	Should women take HRT post-menopause?	Other studies soon found HRT also increased the risk of Alzheimer's, dementia, and asthma.	AGAINST
+156	Should women take HRT post-menopause?	Women should not stop hormone therapy based on this study but if they are concerned they should discuss the findings with their doctor.	NONE
+199	Should women take HRT post-menopause?	Originally planned as a five-year study, the Swedish trial was stopped earlier due to its adverse outcomes in women taking HRT.	AGAINST
+10	Should women take HRT post-menopause?	The good news is that after women stop taking combination hormone therapy, their risk of heart disease appears to decrease, said Elizabeth G. Nabel, MD, NHLBI director.	AGAINST
+30	Should women take HRT post-menopause?	HRT can also help to lower the risk of osteoporosis  and prevent some of the long term health problems associated with early menopause.	FAVOR
+96	Should women take HRT post-menopause?	Ovarian cancer is the fifth most common cause of cancer death among women in the UK, accounting for six per cent of all female deaths from cancer.	NONE
+213	Should women take HRT post-menopause?	This finding is consistent with the rapid drop in  post-menopausal breast cancer incidence rates since 2002, a decrease that has been attributed to the precipitous drop in HRT prescriptions in white, middle/upper class post-menopausal women following the release of the data from these large studies.	AGAINST
+241	Should women take HRT post-menopause?	This part of the study, reported in JAMA, also found that the estrogen/progestin therapy was ineffective in preventing mild cognitive impairment, a dimming of cognitive function that is less severe than dementia and which sometimes occurs as we age.	AGAINST
+117	Should women take HRT post-menopause?	This new analysis did not suggest that the original studies were poorly performed but it did highlight limitations to what the studies can tell us.	NONE
+25	Should women take HRT post-menopause?	If you are at risk of heart disease or osteoporosis, and lifestyle changes don't seem to be working, there are many prescription drugs available to help ward off those conditions.	NONE
+243	Should women take HRT post-menopause?	An analysis by WHI investigators found that HRT caused or worsened urinary incontinence in participants in the trial.	AGAINST
+18	Should women take HRT post-menopause?	If you do use HRT, you'll need to have an annual checkup, including a blood-pressure check, breast and pelvic exams, and a Pap test.	NONE
+132	Should women take HRT post-menopause?	A study of one million women, run by Cancer Research UK scientists, has shown that different types of HRT can increase the risk of different cancers.	AGAINST
+198	Should women take HRT post-menopause?	In 2003, Swedish researchers halted a study of HRT in women,   because women taking  HRT had three times the rate of recurrence or of new tumors compared to women who received other treatments for menopausal symptoms 	AGAINST
+55	Should women take HRT post-menopause?	Long-term systemic hormone therapy for the prevention of postmenopausal conditions is no longer routinely recommended.	AGAINST
+45	Should women take HRT post-menopause?	Hormone therapy (as it's now called) was also thought to have the long-term benefits of preventing heart disease and possibly dementia.	FAVOR
+215	Should women take HRT post-menopause?	The cardiovascular and cancer risks of estrogen plus progestin outweigh any benefits -- and a 26 percent increase in breast cancer risk is too high a price to pay, even if there were a heart benefit, said Claude Lenfant, MD, director of the National Heart, Lung, and Blood Institute, the agency that halted the study.	AGAINST
+109	Should women take HRT post-menopause?	Several newspapers have today reported that hormone replacement therapy (HRT) does not increase the risk of breast cancer.	FAVOR
+60	Should women take HRT post-menopause?	This is because estrogen alone, when not balanced by progesterone, can stimulate growth of the lining of the uterus, increasing the risk of uterine cancer.	FAVOR
+183	Should women take HRT post-menopause?	For patients who are at higher risk of breast cancer, Bitner explores alternative therapies for menopausal symptoms that will reduce exposure to progesterone.	AGAINST
+16	Should women take HRT post-menopause?	As mentioned, doctors choose to prescribe progestin along with estrogen because estrogen taken alone can increase the risk of uterine cancer, unless you've had a hysterectomy.	AGAINST
+119	Should women take HRT post-menopause?	This was a reanalysis of three studies suggesting that HRT caused an increased risk of breast cancer, to see whether the association was actually causal.	NONE
+68	Should women take HRT post-menopause?	Despite the health risks, systemic estrogen is still the most effective treatment for menopausal symptoms.	FAVOR
+170	Should women take HRT post-menopause?	Results showed that women were at increased risk of breast cancer while taking combination HRT.	AGAINST
+38	Should women take HRT post-menopause?	There is no evidence that HRT or vaginal oestrogen after treatment for cervical cancer stimulates your cervical cancer to grow again.	FAVOR
+244	Should women take HRT post-menopause?	Researchers found that women taking estrogen combined with progesterone had a 39 percent greater risk of urinary incontinence than participants taking a placebo.	AGAINST
+154	Should women take HRT post-menopause?	The revised absolute risk increase appears to now sit at just under 1 extra case per 10,000 women per year; somewhat less than the study initially suggested.	NONE
+235	Should women take HRT post-menopause?	But a study reported in the Journal of the American Medical Association links the use of estrogen alone as a hormone replacement therapy to a possible increase in the risk of ovarian cancer.	AGAINST
+118	Should women take HRT post-menopause?	The analysis found that all three studies failed to meet the majority of the criteria and therefore none of the studies was able to establish whether HRT increases the risk of breast cancer.	FAVOR
+195	Should women take HRT post-menopause?	A 2002 study called the Women's Health Initiative (WHI), designed to explore the benefits and risks of combined estrogen-progestin HRT was halted three and a half years before the intended end of the study period, because researchers observed a 26 percent increase in the relative risk of breast cancer.	AGAINST
+239	Should women take HRT post-menopause?	The women on combined HRT  had a 41 percent increase in the rate of strokes, twice the number of blood clots, and a 26 percent increase in invasive breast cancer rates.	AGAINST
+79	Should women take HRT post-menopause?	There is an increased risk of breast cancer with HRT, which has been well documented.	AGAINST
+147	Should women take HRT post-menopause?	In the UK, for every 1000 women using any type of HRT for 5 years from age 50 there is thought to be 1 extra case of ovarian cancer.	AGAINST
+165	Should women take HRT post-menopause?	Study Suggests Progestin, Not Estrogen, Is the Real Cancer Culprit in Hormone Replacement Therapy.	NONE
+97	Should women take HRT post-menopause?	In 2007, a similar Oxford University study concluded that 1,000 British women may have died from ovarian cancer since 1991 because they have taken HRT.	AGAINST
+153	Should women take HRT post-menopause?	In the days since the study was released examination of the relative and absolute risk calculations have shown them to be incorrect.	AGAINST
+75	Should women take HRT post-menopause?	"A leading cancer charity said this was a ""modest increase on a relatively uncommon cancer. ""."	AGAINST
+82	Should women take HRT post-menopause?	Scientists behind the latest study, which looked at data from 52 separate studies including 21,500 women with ovarian cancer, say it proves there is a link between HRT and ovarian cancer.	AGAINST
+101	Should women take HRT post-menopause?	For example, if you started your�periods at a young age and experienced the�menopause at a late age, you'll have been exposed to oestrogen over a longer period of time.	NONE
+197	Should women take HRT post-menopause?	Since the results of the WHI were initially published, other large studies have supported its major conclusions of HRT causing breast cancer.	AGAINST
+126	Should women take HRT post-menopause?	Further, carefully designed studies are needed to determine whether HRT does indeed cause an increased risk of breast cancer.	NONE
+69	Should women take HRT post-menopause?	The benefits of hormone therapy may outweigh the risks if you're healthy and experience moderate to severe hot flashes or other menopausal symptoms, have lost bone mass and either can't tolerate or aren't benefitting from other treatments, stopped having periods before age 40 (premature menopause) or lost normal function of your ovaries before age 40 (premature ovarian insufficiency).	FAVOR
+200	Should women take HRT post-menopause?	Also in 2003, researchers in the Million Women Study in the United Kingdom reported that the use of all types of post-menopausal HRT resulted in a statistically significant increase in the risk of breast cancer.	AGAINST
+127	Should women take HRT post-menopause?	Women who are taking HRT for menopausal symptoms or who used to take HRT should note the advice from Cancer Help UK, which states that any cancer risk associated with HRT reduces to a normal level five years after you stop taking HRT.	AGAINST
+114	Should women take HRT post-menopause?	The researchers wanted to determine whether the association between HRT and breast cancer actually showed that HRT caused an increased risk in breast cancer.	NONE
+193	Should women take HRT post-menopause?	Between 1995 and 2000, several epidemiological studies indicated that use of combined estrogen-progestin hormone replacement therapy (HRT) treatments led to an increase in invasive breast cancer .	AGAINST
+108	Should women take HRT post-menopause?	The risk continues to increase slightly the longer you take HRT, but returns to normal once you stop taking it.	AGAINST
+113	Should women take HRT post-menopause?	Today�s news reports are based on a new analysis of the data from the Million Women Study and two other studies.	NONE
+73	Should women take HRT post-menopause?	The University of Oxford research, in the Lancet, found an extra case for every 1,000 women taking the drugs for five years from the age of 50.	AGAINST
+139	Should women take HRT post-menopause?	HRT which uses oestrogen-only increases the risk of womb cancer.	AGAINST
+ID	Target	Tweet	Stance
+66	Does MMR Vaccine lead to autism in children?	No public health issue of recent years has attracted such heated debate as the question of whether the MMR vaccine can cause autism.	NONE
+45	Does MMR Vaccine lead to autism in children?	Ten of the 13 original authors have since retracted their names from the paper, and The Lancet has discredited its findings, yet the controversy has continued despite the lack of science connecting the MMR vaccine to autism.	AGAINST
+9	Does MMR Vaccine lead to autism in children?	The data do not support an association between MMR and autism.	AGAINST
+73	Does MMR Vaccine lead to autism in children?	Scientists have been looking at the evidence to see whether there really is a link between autism and the vaccine.	NONE
+137	Does MMR Vaccine lead to autism in children?	The study determined that autism could be a result from an atypical measles infection that produces neurological symptoms in some children.	FAVOR
+104	Does MMR Vaccine lead to autism in children?	At the same time I must mention that multiple studies from around the world have concluded that there is no link between Autism and the MMR Vaccine.	AGAINST
+206	Does MMR Vaccine lead to autism in children?	In fact, autism rates were lower in the vaccinated groups.	AGAINST
+229	Does MMR Vaccine lead to autism in children?	This should provide reassurance that children with inborn errors of metabolism who are vaccinated routinely do not experience adverse effects.	AGAINST
+125	Does MMR Vaccine lead to autism in children?	A 1 % increase in vaccination was associated with an additional 680 children having autism.	FAVOR
+212	Does MMR Vaccine lead to autism in children?	Studies have now shown that the age of onset of autism does not differ between vaccinated and unvaccinated children.	AGAINST
+84	Does MMR Vaccine lead to autism in children?	"Concern about a link between the MMR vaccine and autism began in 1998, after the British medical journal ""Lancet"" published a study connecting the vaccine with autism."	NONE
+33	Does MMR Vaccine lead to autism in children?	Study analyzed autism client data from the California Department of Developmental Services between 1995 and 2007.	NONE
+250	Does MMR Vaccine lead to autism in children?	There was no association between the age at the time of vaccination, the time since vaccination, or the date of vaccination and the development of autism.	AGAINST
+68	Does MMR Vaccine lead to autism in children?	It has virtually eradicated these diseases from the UK, and throughout the world it has saved hundreds of lives.	NONE
+46	Does MMR Vaccine lead to autism in children?	A major study published in one of the world�s leading medical journals has concluded that there is no link between the MMR (measles, mumps and rubella) vaccination and autism in children.	AGAINST
+108	Does MMR Vaccine lead to autism in children?	Regardless of the MMR vaccine and autism debate, there are still a number of studies that link vaccines to a possible autism connection.	FAVOR
+6	Does MMR Vaccine lead to autism in children?	With decreasing uptake of immunizations in children and the inevitable occurrence of measles outbreaks, it is important that clinicians be aware of the literature concerning vaccinations and autism so that they may have informed discussions with parents and caregivers.	NONE
+30	Does MMR Vaccine lead to autism in children?	The blood half-life of intramuscular ethyl mercury from thimerosal in vaccines in infants is substantially shorter than that of oral methyl mercury in adults.	NONE
+101	Does MMR Vaccine lead to autism in children?	More specifically, Wakefield claimed that the MMR vaccine was responsible for intestinal inflammation that led to translocation of usually non-permeable peptides to the bloodstream and, subsequently, to the brain, where they affected development.	FAVOR
+55	Does MMR Vaccine lead to autism in children?	The study included anonymised data from 95,727 privately insured children from across the US, 2% of whom had an older sibling with an autistic spectrum disorder (ASD).	NONE
+24	Does MMR Vaccine lead to autism in children?	The committee rejected a causal relationship between the MMR vaccine and autism as well as a causal relationship between thimerosal containing vaccines and autism.	AGAINST
+178	Does MMR Vaccine lead to autism in children?	Another reason some people think that vaccines cause autism is because autistic children are often diagnosed at around the same time they get their shots.	AGAINST
+205	Does MMR Vaccine lead to autism in children?	The study showed no increased risk of autism with immunization at any age.	AGAINST
+180	Does MMR Vaccine lead to autism in children?	Vaccinating your child does not increase the risk that they'll be diagnosed with autism (or other developmental disorders).	AGAINST
+168	Does MMR Vaccine lead to autism in children?	A study conducted by The George Washington University School of Public Health from the Department of Epidemiology and Biostatistics determined that significantly increased rate ratios were observed for autism and autism spectrum disorders as a result of exposure to mercury from Thimerosal-containing vaccines.	FAVOR
+15	Does MMR Vaccine lead to autism in children?	The court found that the scientific evidence is overwhelmingly contrary to this theory.	AGAINST
+132	Does MMR Vaccine lead to autism in children?	A study determined that the autoimmunity to the central nervous system may play a causal role in autism.	FAVOR
+227	Does MMR Vaccine lead to autism in children?	Authors did not find any association between vaccination of children with inborn errors of metabolism and an increase in hospitalizations or emergency-department visits within 30 days of vaccination.	NONE
+237	Does MMR Vaccine lead to autism in children?	Study compared prevalence of measles, mumps and rubella (MMR) vaccination among children in the United Kingdom to rising prevalence of autism diagnoses for children.	NONE
+143	Does MMR Vaccine lead to autism in children?	Research suggests that metals, including those found in many vaccines are directly involved in increasing oxidative stress.	FAVOR
+19	Does MMR Vaccine lead to autism in children?	There was no trend toward an increase in the incidence of autism during that period when thimerosal was used in Denmark, up through 1990.	AGAINST
+152	Does MMR Vaccine lead to autism in children?	Oxidative stress, brain inflammation and microgliosis have been much documented in association with toxic exposures including various heavy metals.	NONE
+67	Does MMR Vaccine lead to autism in children?	The MMR jab combines three childhood vaccines, against measles, mumps and rubella, into one injection, which is first given to children at around 12-18 months.	NONE
+200	Does MMR Vaccine lead to autism in children?	The MMR vaccine has been proven to be a safe way for our children to protect themselves from the harms of measles, mumps and rubella .	NONE
+10	Does MMR Vaccine lead to autism in children?	No association between measles vaccination and autism was shown by most of the current research studies.	AGAINST
+109	Does MMR Vaccine lead to autism in children?	Please keep in mind that multiple courts worldwide have ruled in favour of vaccines causing autism, brain damage and other complications, that include the MMR vaccine.	FAVOR
+60	Does MMR Vaccine lead to autism in children?	But whether or not they had been given MMR vaccination did not make a difference.	AGAINST
+119	Does MMR Vaccine lead to autism in children?	While the FDA does set an upper limit for Aluminum in vaccines at no more that 850/mg/dose, it is important to note that this amount was selected empirically from data showing that Aluminum in such amounts enhanced the antigenicity of the vaccine, rather than from existing safety.	NONE
+92	Does MMR Vaccine lead to autism in children?	Following the now refuted notion that MMR caused autism was the notion that thimerosal, an ethylmercury-containing preservative that was present in some vaccines, caused autism.	FAVOR
+25	Does MMR Vaccine lead to autism in children?	In a study by Fombonne, et al., which quantified thimerosal and MMR vaccine uptake in 28,000 Canadian children, the data rule out an association between pervasive developmental disorder and  1- or 2-dose measles-mumps-rubella vaccinations.	AGAINST
+75	Does MMR Vaccine lead to autism in children?	These studies have overwhelmingly found no link between autism and MMR.	AGAINST
+18	Does MMR Vaccine lead to autism in children?	No convincing evidence was found that early exposure to thimerosal had any deleterious effect on neurologic or psychological outcome.	AGAINST
+148	Does MMR Vaccine lead to autism in children?	A study  noted that autistic spectrum disorders can be associated with mitochondrial dysfunction which can be caused by viral infections.	FAVOR
+241	Does MMR Vaccine lead to autism in children?	These data do not suggest an association between MMR immunization among young children and an increase in autism occurrence.	AGAINST
+190	Does MMR Vaccine lead to autism in children?	This compulsory vaccine, MMR, has recently been ruled as the cause for autism by an Italian court.	FAVOR
+176	Does MMR Vaccine lead to autism in children?	Speculation about a possible link between vaccines and autism first appeared after the medical journal, The Lancet, published a study in 1998 that claimed to have found a link between the MMR vaccine and autism.	FAVOR
+257	Does MMR Vaccine lead to autism in children?	The IOM's Committee on Immunization Safety Review was convened in the fall of 2000 to provide an independent review of increasingly prominent MMR vaccine safety concerns.	NONE
+185	Does MMR Vaccine lead to autism in children?	Concerned parents everywhere were right all along: MMR vaccine can cause autism.	FAVOR
+184	Does MMR Vaccine lead to autism in children?	But the fact that these documents remain censored shows that the government is hiding something of importance from the public, which most definitely has to do with the connection between the MMR vaccine and autism.	FAVOR
+90	Does MMR Vaccine lead to autism in children?	After all, there's no known connection between autism and measles, mumps, or rubella.	AGAINST
+165	Does MMR Vaccine lead to autism in children?	Evidence for mercury intoxication should be considered in the differential diagnosis as contributing to some regressive ASDs.	FAVOR
+16	Does MMR Vaccine lead to autism in children?	The risk of autism and other autism spectrum disorders did not differ significantly between children vaccinated with thimerosal-containing vaccine and children vaccinated with thimerosal-free vaccine.	AGAINST
+211	Does MMR Vaccine lead to autism in children?	Such concerns likely explain why vaccination rates have dropped in families that have an older child with the autism disorder.	NONE
+141	Does MMR Vaccine lead to autism in children?	A study published in the American Journal of Clinical Nutrition determined that an increased vulnerability to oxidative stress and decreased capacity for methylation may contribute to the development and clinical manifestation of autism.	FAVOR
+115	Does MMR Vaccine lead to autism in children?	These include the onset of synaptogenesis (birth), maximal growth velocity of the hippocampus and the onset of amygdala maturation.	NONE
+77	Does MMR Vaccine lead to autism in children?	At the very least, these studies show that the large increases in rates of autism that have been reported in many countries around the world cannot be due to MMR.	AGAINST
+181	Does MMR Vaccine lead to autism in children?	You won�t hear anything about it from the mainstream media, but the federal government�s kangaroo �vaccine court� has once again conceded, albeit quietly, that the combination measles, mumps and rubella (MMR) vaccine does, indeed, cause autism.	FAVOR
+38	Does MMR Vaccine lead to autism in children?	Children with ASD were further categorized as having autistic disorder or ASD with regression.	NONE
+139	Does MMR Vaccine lead to autism in children?	Study published in the Annals of Clinical Psychiatry suggests that Autism is likely triggered by a virus, and that measles virus (MV and/or MMR vaccine) might be a very good candidate.	FAVOR
+236	Does MMR Vaccine lead to autism in children?	Data do not support a causal association between MMR vaccine and autism.	AGAINST
+228	Does MMR Vaccine lead to autism in children?	On-time receipt of MMR vaccines is not associated with increased risk for serious adverse events in the 30 days after vaccination, even in children who have metabolism conditions.	AGAINST
+251	Does MMR Vaccine lead to autism in children?	This study provides strong evidence against the hypothesis that MMR vaccination causes autism.	AGAINST
+82	Does MMR Vaccine lead to autism in children?	The study therefore found no evidence of any link between MMR and autism.	AGAINST
+225	Does MMR Vaccine lead to autism in children?	The comparison of children vaccinated on time with children whose vaccinations were delayed or incomplete found no benefit in delaying immunizations during the first year of life.	NONE
+111	Does MMR Vaccine lead to autism in children?	A study published by researchers at the Neural Dynamics Group, Department of Ophthalmology and Visual Sciences at the University of British Columbia determined that Aluminum, a highly neurotoxic metal and the most commonly used vaccine adjuvant may be a significant contributing factor to the rising prevalence of ASD in the Western World.	FAVOR
+245	Does MMR Vaccine lead to autism in children?	These findings do not argue for changes in current MMR immunization programs and recommendations.	AGAINST
+97	Does MMR Vaccine lead to autism in children?	This concern, too, has been refuted by a recent study.	AGAINST
+164	Does MMR Vaccine lead to autism in children?	These previously normal developing children suffered mercury encephalopathies that manifested with clinical symptoms consistent with regressive ASDs.	FAVOR
+86	Does MMR Vaccine lead to autism in children?	"In 2004 a much larger study in ""Lancet"" compared 1,294 children with autistic spectrum disorders with 4,469 unaffected children and found that the MMR vaccine doesn't raise the risk of autism or other autism spectrum disorders."	AGAINST
+246	Does MMR Vaccine lead to autism in children?	The proportion of children with developmental regression (25% overall) or bowel symptoms (17%) did not change significantly during the 20 years from 1979, a period which included the introduction of measles, mumps and rubella (MMR) vaccination in October 1988.	AGAINST
+147	Does MMR Vaccine lead to autism in children?	Researchers determined that a significant relation does exist between the blood levels of mercury and the diagnosis of an autism spectrum disorder.	FAVOR
+252	Does MMR Vaccine lead to autism in children?	The proportion of parents attributing their child's autism to MMR appears to have increased since August 1997.	FAVOR
+175	Does MMR Vaccine lead to autism in children?	One of those studies looked at more than half a million children in Denmark and found that the risk of developing autism was no different between children who were immunized and those who were not.	AGAINST
+79	Does MMR Vaccine lead to autism in children?	They pointed to distinctive features of some of the autistic children that they said was evidence of a possible connection with MMR.	FAVOR
+140	Does MMR Vaccine lead to autism in children?	It supports the hypothesis that a virus-driven autoimmune response may play a causal role in autism.	FAVOR
+69	Does MMR Vaccine lead to autism in children?	Recent years, however, have seen the rates of MMR vaccination decline.	NONE
+2	Does MMR Vaccine lead to autism in children?	Study of thimerosal and measles, mumps and rubella (MMR) vaccine uptake in 28,000 Canadian children  rule out an association between pervasive developmental disorder  and 1- or 2-dose MMR vaccinations.	AGAINST
+117	Does MMR Vaccine lead to autism in children?	Many of these aspects of brain function are known to be impaired in autism, such as sleeping and brain wave patterns.	NONE
+ID	Target	Tweet	Stance
+322	Does Sunlight exposure lead to skin cancer?	Past episodes of severe sunburn, often with blisters, and particularly in childhood, increase the risk of developing a melanoma.	FAVOR
+116	Does Sunlight exposure lead to skin cancer?	Shuster acknowledges that the sun is responsible for some skin cancers, like basal and squamous cell, but, these are virtually benign and mostly trivial.	AGAINST
+113	Does Sunlight exposure lead to skin cancer?	Melanoma cases occur on relatively unexposed sites of the body, especially the feet of dark-skinned Africans.	AGAINST
+42	Does Sunlight exposure lead to skin cancer?	Different types of radiation in sunlight include visible light, ultraviolet (UV) radiation.	NONE
+126	Does Sunlight exposure lead to skin cancer?	Actually, the best predictor for melanoma is not total sun exposure, but hard and intermittent exposure that does the damage.	FAVOR
+223	Does Sunlight exposure lead to skin cancer?	Taking the right precautions can greatly reduce your child's chance of developing skin cancer.	NONE
+182	Does Sunlight exposure lead to skin cancer?	In Australia, many states and territories are banning commercial tanning units.	NONE
+179	Does Sunlight exposure lead to skin cancer?	UV radiation from a solarium is more intense than natural sunlight, up to three times as strong as the midday summer sun.	NONE
+338	Does Sunlight exposure lead to skin cancer?	The study results showed that office workers with less sun exposure develop melanoma at twice the rate of lifeguards who have more sun exposure.	AGAINST
+25	Does Sunlight exposure lead to skin cancer?	skin cancer is due to the uncontrolled growth of abnormal skin cells.	NONE
+124	Does Sunlight exposure lead to skin cancer?	In the end, 95% of melanoma cases are due to sun exposure.	FAVOR
+222	Does Sunlight exposure lead to skin cancer?	Most kids get much of their lifetime sun exposure before age 18, so it's important for parents to teach them how to enjoy fun in the sun safely.	NONE
+262	Does Sunlight exposure lead to skin cancer?	Today, skin cancer diagnoses surpass all other cancer, with over 1.3 million new cases each year, with new melanoma diagnoses to be close to 48,000 in 2002, according to the American Cancer Society.	NONE
+267	Does Sunlight exposure lead to skin cancer?	Damage to skin cells continues for hours after spending time in the sun, according to research that uncovers a new link between sun exposure and cancer.	FAVOR
+109	Does Sunlight exposure lead to skin cancer?	The risk of melanoma is more than 10 times higher for whites than for African Americans, particularly for fair-skinned Caucasians with red or blond hair who burn easily.	FAVOR
+152	Does Sunlight exposure lead to skin cancer?	No scientific literature has ever proven that sunlight causes cancer in human beings.	AGAINST
+118	Does Sunlight exposure lead to skin cancer?	If sun were important, we'd expect sunscreen to decrease the incidence of melanoma over the years as more and more people are using sunscreen.	AGAINST
+147	Does Sunlight exposure lead to skin cancer?	Exposure to sunlight and ultraviolet light has been repeatedly shown to NOT be the cause of skin cancer.	AGAINST
+157	Does Sunlight exposure lead to skin cancer?	As written in The Lancet: �Paradoxically, outdoor workers have a decreased risk of melanoma compared with indoor workers, suggesting that chronic sunlight exposure can have a protective effect.� So if UVA and UVB do not cause melanoma, why use sunscreen?	AGAINST
+9	Does Sunlight exposure lead to skin cancer?	Adding even more credence to the growing body of evidence showing sun exposure is not the primary cause of melanoma, the researchers noted that the distribution of the lesions reported did not correspond to the sites of lesions caused by sun exposure.	AGAINST
+202	Does Sunlight exposure lead to skin cancer?	There are two main types of skin cancer: basal cell carcinoma (BCC) and squamous cell carcinoma (SCC).	NONE
+55	Does Sunlight exposure lead to skin cancer?	Skin cancer among people who are sensitive to sunlight is more common in regions with stronger sunlight.	FAVOR
+302	Does Sunlight exposure lead to skin cancer?	Some people are more at risk than others for developing skin cancer.	NONE
+119	Does Sunlight exposure lead to skin cancer?	Melanoma has actually increased over the years even after more and more people have started using suncreen.	AGAINST
+145	Does Sunlight exposure lead to skin cancer?	The results, published in the American Journal of Epidemiology, showed that women who had at least 21 hours a week exposure to the sun�s UV rays in their teens were 29 percent less likely to get cancer than those getting under an hour a day.	AGAINST
+90	Does Sunlight exposure lead to skin cancer?	Frequent and prolonged exposure to ultraviolet rays over many years is the chief cause of skin cancer.	FAVOR
+108	Does Sunlight exposure lead to skin cancer?	Indeed, this year, according to the National Cancer Institute, there will be 68,720 new cases of melanoma and 8,650 people will die from the disease.	NONE
+172	Does Sunlight exposure lead to skin cancer?	 Protecting skin from over exposure can help reduce the risk of skin cancer.	FAVOR
+139	Does Sunlight exposure lead to skin cancer?	Researchers claim that regular daily use of an SPF 15 or higher sunscreen reduces the risk of developing melanoma by 50 percent.	FAVOR
+315	Does Sunlight exposure lead to skin cancer?	UVA and UVB components in sun rays damage the skin in different ways, but both can lead to the development of skin cancer.	FAVOR
+177	Does Sunlight exposure lead to skin cancer?	However, by limiting recreational sun exposure, a person can likely decrease their risk of melanoma whatever their age.	FAVOR
+39	Does Sunlight exposure lead to skin cancer?	In some cases skin cancer can be life-threatening if not diagnosed in time.	NONE
+104	Does Sunlight exposure lead to skin cancer?	When you examine the geographical, sun exposure and genetic evidence together, sun exposure is clearly a major cause of melanoma.	FAVOR
+254	Does Sunlight exposure lead to skin cancer?	In 1990, a U.S. Navy study found the highest rates of melanoma in those that worked indoors.	AGAINST
+78	Does Sunlight exposure lead to skin cancer?	Intermittent solar exposure may be an important factor leading to the onset of basal cell carcinoma of the skin.	FAVOR
+5	Does Sunlight exposure lead to skin cancer?	Melanoma Increases Due to Benign Disease, Not Sunlight.	AGAINST
+208	Does Sunlight exposure lead to skin cancer?	Regularly using sunbeds and sunlamps can also increase the risk of developing some skin cancers.	FAVOR
+331	Does Sunlight exposure lead to skin cancer?	The reasons behind higher death rates in women with lower sun exposure are still unexplained, as unhealthy lifestyle choices could have played a part.	NONE
+110	Does Sunlight exposure lead to skin cancer?	Nevertheless, detractors say sunscreen won't do a thing to protect them.	AGAINST
+76	Does Sunlight exposure lead to skin cancer?	Recent studies have focused on the effects of intermittent (short-term, occasional) sun exposure in comparison to chronic (long-term) exposure.	NONE
+84	Does Sunlight exposure lead to skin cancer?	The skin uses sunlight to help manufacture vitamin D, which is important for normal bone formation.	NONE
+3	Does Sunlight exposure lead to skin cancer?	Rates of melanoma, the deadliest form of skin cancer, have been rising for at least the last three decades, and this increase has been largely blamed on exposure to ultraviolet (UV) light from the sun.	FAVOR
+199	Does Sunlight exposure lead to skin cancer?	The National Academy of Sciences published a review stating that the Omega 6:3 ratio is the key to preventing skin cancers.	NONE
+229	Does Sunlight exposure lead to skin cancer?	A UVA tan does not help protect the skin from further sun damage; it just produces color and a false sense of safety.	NONE
+46	Does Sunlight exposure lead to skin cancer?	Damage can result in sunburn increased rate of aging of the skin skin cancer.	FAVOR
+193	Does Sunlight exposure lead to skin cancer?	There have been suggestions that it may have played a role, but results are flimsy due to the lack of evidence.	AGAINST
+287	Does Sunlight exposure lead to skin cancer?	The most common skin cancers are basal cell cancer and squamous cell cancer.	NONE
+265	Does Sunlight exposure lead to skin cancer?	Even sunscreens with the highest protection factor of 35, applied in the correct amounts, were not effective at filtering out the harmful rays.	NONE
+73	Does Sunlight exposure lead to skin cancer?	Ultraviolet radiation (UVR) can increase the cancer-causing ability of chemicals from coal tar and pitch.	FAVOR
+33	Does Sunlight exposure lead to skin cancer?	Aside from complexion, other risk factors for skin cancer include having a family history or personal history of skin cancer, having an outdoor job, and living in a sunny climate.	FAVOR
+250	Does Sunlight exposure lead to skin cancer?	Taking into account such factors as hair color, skin type and the history of sun exposure, it was found that working under fluorescent lights had doubled the risk of melanoma in the subjects of the test group.	AGAINST
+183	Does Sunlight exposure lead to skin cancer?	There is not much you can do about your hereditary risk factors, but you can take steps to reduce your risk of skin cancer from over-exposure to UV radiation and recreational sun exposure.	FAVOR
+238	Does Sunlight exposure lead to skin cancer?	The lighter someone's natural skin color, the less melanin it has to absorb UV rays and protect itself.	NONE
+82	Does Sunlight exposure lead to skin cancer?	It is important to be aware of the cancer risks and take precautions while under the sun from as early in life as possible.	FAVOR
+63	Does Sunlight exposure lead to skin cancer?	Squamous cell skin cancer also usually develops in areas where the skin has been damaged by the sun - areas with blemishes or sun freckles.	FAVOR
+198	Does Sunlight exposure lead to skin cancer?	To more accurately put it, you do not get skin cancer from the sun.	AGAINST
+57	Does Sunlight exposure lead to skin cancer?	Studies show that ultraviolet radiation similar to sunlight causes skin cancer in animals.	FAVOR
+333	Does Sunlight exposure lead to skin cancer?	Evidence shows that the Sun Protects You from Melanoma.	AGAINST
+321	Does Sunlight exposure lead to skin cancer?	Melanoma occurs most often in fair-skinned people who tan poorly.	NONE
+45	Does Sunlight exposure lead to skin cancer?	There are three basic types of ultraviolet radiation: UVA (long-wave UV) UVB (sunburn UV) UVC (short-wave UV).	NONE
+271	Does Sunlight exposure lead to skin cancer?	�ine McCarthy, of Cancer Research UK said, �The discovery that UV radiation can continue to harm our DNA hours after exposure raises the possibility of developing future products that might reduce this �dark damage�.	FAVOR
+307	Does Sunlight exposure lead to skin cancer?	Exposure to UV rays from the sun or tanning beds is the most preventable risk factor for melanoma.	FAVOR
+318	Does Sunlight exposure lead to skin cancer?	There is lots of evidence linking melanoma to sun exposure, and melanomas are especially common in white-skinned people who live in sunny countries.	FAVOR
+233	Does Sunlight exposure lead to skin cancer?	Most UVB rays are absorbed by the ozone layer, but enough of these rays pass through to cause serious damage.	NONE
+173	Does Sunlight exposure lead to skin cancer?	Melanoma is more common in older adults than younger people, with the average age of diagnosis at 61 years.	NONE
+72	Does Sunlight exposure lead to skin cancer?	"Experimental studies show that chemicals called ""promoters"" can increase the cancer-causing ability of ultraviolet radiation present in sunlight."	FAVOR
+75	Does Sunlight exposure lead to skin cancer?	In general, the risk of developing skin cancer increases with the amount of time spent under the sun and the intensity of radiation.	FAVOR
+16	Does Sunlight exposure lead to skin cancer?	There are two primary types of UV rays from sunlight, the vitamin-D-producing UVB rays and the skin-damaging UVA light.	NONE
+66	Does Sunlight exposure lead to skin cancer?	Skin cancer usually spreads if not treated in the early stage.	NONE
+114	Does Sunlight exposure lead to skin cancer?	There is no evidence that melanomas occur at sunburn sites on the body.	AGAINST
+7	Does Sunlight exposure lead to skin cancer?	The researchers noted that the large increase in reported skin cancer incidence is likely to be due to diagnostic drift, which classifies benign lesions as stage 1 melanoma.	NONE
+137	Does Sunlight exposure lead to skin cancer?	It�s also the most common form of cancer for young adults 25-29 years old and the second most common form of cancer for young people 15-29 years old.	NONE
+329	Does Sunlight exposure lead to skin cancer?	"There's no proof that increased exposure to the sun increases the risk of melanoma."""	AGAINST
+303	Does Sunlight exposure lead to skin cancer?	You may develop skin cancer later in life, if you have fair, light-coloured skin that freckles or burns easily, had severe sunburn or blistering as a child, have been exposed to sunlight all your life, use tanning beds or sunbeds, have a history of severe skin damage.	FAVOR
+299	Does Sunlight exposure lead to skin cancer?	The effect UV light has on your skin is dependent both upon the intensity and the duration of your exposure.	NONE
+77	Does Sunlight exposure lead to skin cancer?	It appears that the type of sun exposure may influence the type of cancer that develops.	FAVOR
+211	Does Sunlight exposure lead to skin cancer?	However, the reason for taking the immunosuppressants outweighs the potential risk of developing skin cancer.	NONE
+209	Does Sunlight exposure lead to skin cancer?	People who take drugs that lower their immunity (immunosuppressants) � for example, after a kidney transplant � are at an increased risk of skin cancer.	NONE
+256	Does Sunlight exposure lead to skin cancer?	Omega-3 and omega-6 fats are both essential for human health, however the typical American consumes far too many omega-6 fats in their diet while consuming very low levels of omega-3.	NONE
+60	Does Sunlight exposure lead to skin cancer?	Basal cell skin cancer  is usually found in areas of the skin exposed to sunlight, but sometimes occurs in other areas as well.	FAVOR
+101	Does Sunlight exposure lead to skin cancer?	Prof. Menzies argues that there is a clear association between increasing cases of melanoma and increasing environmental ultraviolet light.	FAVOR
+237	Does Sunlight exposure lead to skin cancer?	Melanin is found in different concentrations and colors, resulting in different skin colors.	NONE
+94	Does Sunlight exposure lead to skin cancer?	In contrast, melanoma is related to ethnicity rather than pigmentation and in 75% of cases occurs on relatively unexposed sites, especially on the feet of Africans.	NONE
+253	Does Sunlight exposure lead to skin cancer?	Russian researchers found women working under fluorescent lights to be at a greater risk of melanoma.	AGAINST
+148	Does Sunlight exposure lead to skin cancer?	Scientists from The University of Texas MD Anderson Cancer Center reported UVA exposure is unlikely to have contributed to the rise in the incidence of melanoma over the past 30 years.	AGAINST
+17	Does Sunlight exposure lead to skin cancer?	Both UVA and UVB can cause tanning and burning, although UVB does so far more rapidly.	NONE
+24	Does Sunlight exposure lead to skin cancer?	Skin cancer is the most prevalent form of all cancers in the US, and the number of cases continues to rise.	NONE
+285	Does Sunlight exposure lead to skin cancer?	People with fair skin, with a northern European heritage appear to be most susceptible.	NONE
+143	Does Sunlight exposure lead to skin cancer?	The widespread use of sunscreens, particularly those with high sun protection factors (SPF), may lead to a significant decrease in solar-induced previtamin D3 in the skin, resulting in a vitamin D level which is insufficient for protection against a wide range of diseases.	NONE
+274	Does Sunlight exposure lead to skin cancer?	Very simply, sunburn and UV light can damage your skin, and this damage can lead to skin cancer.	FAVOR
+317	Does Sunlight exposure lead to skin cancer?	The most important preventable cause for melanoma is exposure to too much ultraviolet light in sunlight, especially during the first 20 years of life.	FAVOR
+336	Does Sunlight exposure lead to skin cancer?	For example, lifeguards, construction workers and farmers have much lower rates than office workers.	AGAINST
+275	Does Sunlight exposure lead to skin cancer?	There are of course other determining factors, including your heredity and the environment you live in.	NONE
+249	Does Sunlight exposure lead to skin cancer?	A study in BMJ examined the relationship between indoor fluorescent lights and the ever rising rate of melanoma.	NONE
+153	Does Sunlight exposure lead to skin cancer?	Most studies that have attempted to find a cause have only found correlations and many scientists have established the the toxicity level of the human body which reacts with the UV spectrum is what causes cancer, not the sunlight itself.	AGAINST
+210	Does Sunlight exposure lead to skin cancer?	Squamous cell cancers are the most common, but basal cell cancers and melanomas are also more common in these people than in the general population.	NONE
+19	Does Sunlight exposure lead to skin cancer?	A study in Medical Hypotheses suggested that indoor workers may have increased rates of melanoma because they're exposed to sunlight through windows, and only UVA light, unlike UVB, can pass through window glass.	FAVOR
+195	Does Sunlight exposure lead to skin cancer?	Like with many other mainstream medical conditions,�unfortunately�people who do get skin cancers are often just thrown into the category of having got it from sun exposure without ever really being looked at as to why they got it.	AGAINST
+79	Does Sunlight exposure lead to skin cancer?	Childhood sun exposure may also play an important part in the development of these cancers later in adult life.	FAVOR
+301	Does Sunlight exposure lead to skin cancer?	Skin cancer can take 20 to 30 years to develop.	NONE
+18	Does Sunlight exposure lead to skin cancer?	UVA, however, penetrates your skin more deeply than UVB, and may be a much more important factor in photoaging, wrinkles and skin cancers.	AGAINST
+140	Does Sunlight exposure lead to skin cancer?	What�s interesting is how many people never stop to think about how humans survived on this planet for thousands of years working outside for hours on end before the industrial era.	AGAINST
+297	Does Sunlight exposure lead to skin cancer?	It is estimated that 1 out of 7 people in the United States will develop some form of skin cancer during their lifetime.	NONE
+ID	Target	Tweet	Stance
+30	Does Vitamin C prevent common cold?	"In 2013, an updated�review of studies into vitamin C and the common cold concluded that�""regular ingestion of vitamin C had no effect on common cold incidence in the ordinary population""."	AGAINST
+126	Does Vitamin C prevent common cold?	The average duration of the colds was 5.5 days in the vitamin C group and 5.8 in the placebo group.	NONE
+199	Does Vitamin C prevent common cold?	Overall, current evidence does not suggest that vitamin C supplementation reduces the incidence or severity of cold in healthy individuals, even at high doses.	NONE
+142	Does Vitamin C prevent common cold?	If you choose to supplement when a cold strikes, there is no reason to take more than 250 mg per day, as shown in the 1974 Anderson study.	FAVOR
+253	Does Vitamin C prevent common cold?	A small study published in the Journal of the American College of Nutrition found that vitamin C may dampen the inflammatory response caused by the chemical histamine and this antihistamine effect could reduce the symptoms of a cold, such as runny noses, that occur when the body ramps up its inflammatory response.	FAVOR
+237	Does Vitamin C prevent common cold?	It's fair to say that vitamin C supplementation both shortens duration of cold and offers some protection against colds, though it's not very dramatic, said Stephen Lawson, a researcher at the Linus Pauling Institute at Oregon State University, who studies micronutrients.	FAVOR
+97	Does Vitamin C prevent common cold?	Vitamin C also acts as an antioxidant in the body, which will help to protect against the cell-damaging free radicals that we sometimes come in contact with.	NONE
+206	Does Vitamin C prevent common cold?	Overall, experts find little to no benefit if you use vitamin C to prevent or treat a cold.	AGAINST
+263	Does Vitamin C prevent common cold?	The Natural Medicines Comprehensive Database rates effectiveness based on scientific evidence, Isaac explains, and according to the National Institutes of Health, vitamin C is considered possibly effective for treating the common cold.	AGAINST
+144	Does Vitamin C prevent common cold?	Vitamin C really doesn't seem to help prevent a cold, but there's much evidence to suggest that taking high doses of C may help shorten the time you're sick by a day or so.	FAVOR
+79	Does Vitamin C prevent common cold?	Dr. Pauling, a strong proponent of using vitamin C to prevent and treat colds, wrote the definitive book on the subject.	NONE
+209	Does Vitamin C prevent common cold?	However, vitamin C didn't help if people took it after they showed signs of getting cold.	AGAINST
+231	Does Vitamin C prevent common cold?	Getting plenty of C may be especially important for pregnant moms and infants.	NONE
+101	Does Vitamin C prevent common cold?	One study did find that taking a daily vitamin C supplement reduced the frequency of catching a cold.	FAVOR
+195	Does Vitamin C prevent common cold?	Some studies have shown that taking large doses of vitamin C (more than 1,000 mg per day) continuously or when you first develop cold symptoms, may ease some of the symptoms and the duration.	FAVOR
+114	Does Vitamin C prevent common cold?	Without question, publication of this book, combined with Pauling's reputation as a Nobel Prize-winning scientist, has made vitamin C a best seller.	NONE
+194	Does Vitamin C prevent common cold?	Despite exhaustive research across the world, there is still no strong evidence to prove that Vitamin C prevents common cold.	NONE
+60	Does Vitamin C prevent common cold?	This partially explains why Linus Pauling believed vitamin C could prevent colds.	FAVOR
+203	Does Vitamin C prevent common cold?	Moreover, when under stressful conditions such as extreme exercise or cold temperatures, additional vitamin C may help strengthen your resistance to respiratory infection.	FAVOR
+242	Does Vitamin C prevent common cold?	Lawson's institution, which was founded by Pauling, recommends taking 400 milligrams of vitamin C a day to promote optimal health.	NONE
+45	Does Vitamin C prevent common cold?	 The research findings suggest that taking vitamin C taken regularly as a supplement can affect the number of days (duration) you suffer with the cold.	FAVOR
+73	Does Vitamin C prevent common cold?	Vitamin C supplements also increase the risk for kidney stones, a particularly painful condition to have.	NONE
+182	Does Vitamin C prevent common cold?	According to the researchers, one possible explanation is that vitamin C lowers the severity of cold symptoms, such as chills and coughs.	FAVOR
+258	Does Vitamin C prevent common cold?	Men doing heavy physical exercise are particularly prone to respiratory infections, and taking 600mg to 1g vitamin C per day was found to half the risk of cold symptoms for military troops under training, as well as for participants in a 90 km running race .	FAVOR
+275	Does Vitamin C prevent common cold?	Whether vitamin C has an effect on the common cold has been a subject of controversy for at least 60 years.	NONE
+213	Does Vitamin C prevent common cold?	For most people, it's also OK if you take supplements in the recommended amount.	NONE
+84	Does Vitamin C prevent common cold?	Even more recently, Van Straten and Josling found that subjects receiving a vitamin C supplement for 60 days during winter C had significantly fewer colds as compared to placebo.	FAVOR
+42	Does Vitamin C prevent common cold?	A recently updated Cochrane systematic review evaluated the benefits of vitamin C and the common cold in three areas as a: regular supplement to prevent the common cold (frequency) regular supplement to reduce the duration and severity of symptoms, and treatment, once a cold was present to reduce the duration and severity of symptoms Prevent getting the common cold while taking vitamin C as a regular supplement. 	NONE
+9	Does Vitamin C prevent common cold?	Researchers have found that zinc is the best supplement for warding off colds, while Vitamin C is likely to be a waste of money.	AGAINST
+118	Does Vitamin C prevent common cold?	By 1982, about thirty of these were reported and the majority of medical scientists had concluded that supplementation with vitamin C does not prevent colds and, at best, may slightly reduce the symptoms of a cold.	AGAINST
+22	Does Vitamin C prevent common cold?	But in people who work out, vitamin C can halve the risk and even help get rid of the sniffles.	FAVOR
+155	Does Vitamin C prevent common cold?	This study demonstrated that doses of Vitamin C greater than 1000mg confer a beneficial response in battling the duration and severity of the common cold.	FAVOR
+24	Does Vitamin C prevent common cold?	And male teenage swimmers who caught a cold and were treated with the supplement shook off their illness twice as quickly as boys who didn't take the vitamin.	FAVOR
+168	Does Vitamin C prevent common cold?	Higher doses of vitamin C (greater than 2,000 milligrams per day) may cause kidney stones, nausea, and diarrhea.	AGAINST
+226	Does Vitamin C prevent common cold?	Analyzing data from more than 85,000 women in the Nurses Health Study, researchers at Children�s Hospital, Boston, reported in 2003 that those with the highest intake of C had the lowest risk of heart disease over a 16-year period.	NONE
+75	Does Vitamin C prevent common cold?	There simply isn�t enough evidence that vitamin C prevents colds.	AGAINST
+234	Does Vitamin C prevent common cold?	The current recommended daily intake for men is 90 mg and for women it is 75 mg. �Don�t waste your money on megadoses of vitamin C,� says Higdon.	NONE
+236	Does Vitamin C prevent common cold?	Some studies suggest taking vitamin C has a modest effect on the common cold, but don't expect miracles, one expert says.	FAVOR
+6	Does Vitamin C prevent common cold?	The authors found seven trials (all in adults) evaluating whether vitamin C taken when their symptoms started would shorten the cold.	NONE
+68	Does Vitamin C prevent common cold?	According to some studies, taking vitamin C may also reduce the duration of the common cold by a day or two.	FAVOR
+46	Does Vitamin C prevent common cold?	There was a decrease in the number of days that the cold affected people; specifically, a decrease of 8% in adults (17 studies, 7215 participants) was shown.	FAVOR
+177	Does Vitamin C prevent common cold?	Most scientists agree that vitamin C is not an effective treatment for the common cold.	AGAINST
+66	Does Vitamin C prevent common cold?	Before you assume that vitamin C is worthless, there may be a small benefit to getting higher doses of vitamin C when you feel the symptoms of a cold coming on.	FAVOR
+25	Does Vitamin C prevent common cold?	The researchers also found that children also appear to be more responsive to the vitamin than adults, with a daily one gram dose slashing the average duration of colds in children by 18 per cent and in adults by 8 per cent.	FAVOR
+125	Does Vitamin C prevent common cold?	The children receiving vitamin C averaged 0.38 colds per person while the placebo group averaged 0.37.	NONE
+164	Does Vitamin C prevent common cold?	Experts from the National Institutes of Health (NIH), suggest that vitamin C does not prevent you from catching a cold at all, but it may slightly reduce the duration of the cold if taken regularly.	FAVOR
+19	Does Vitamin C prevent common cold?	Large doses of Vitamin C are also likely to cause nausea, diarrhoea and stomach cramps.	NONE
+82	Does Vitamin C prevent common cold?	The results of this study were that flu and cold symptoms in the test group treated with Vitamin C decreased by 85% compared to the control group.	FAVOR
+172	Does Vitamin C prevent common cold?	Regular supplements do not prevent colds in most people but they seem to reduce the severity of cold symptoms.	FAVOR
+276	Does Vitamin C prevent common cold?	Linus Pauling's book Vitamin C and The Common Cold, published in 1970, was a bestseller and led many people to believe in the value of the vitamin for cold prevention and treatment.	NONE
+90	Does Vitamin C prevent common cold?	Vitamin C strengthens connective tissue, increasing resistance to viral invasion.	FAVOR
+152	Does Vitamin C prevent common cold?	Amongst the 21 studies they concluded that there was no effect of Vitamin C supplementation upon the incidence of the common cold, but that there was a significant dose dependent impact upon the severity and duration of the cold.	FAVOR
+261	Does Vitamin C prevent common cold?	The role vitamin C plays, with respect to the common cold, remains controversial, says Beth Isaac, PharmD.	NONE
+15	Does Vitamin C prevent common cold?	Vitamin C became popular in the Seventies after Nobel laureate Linus Pauling concluded it could prevent and alleviate colds.	FAVOR
+159	Does Vitamin C prevent common cold?	After reviewing this evidence it appears that there are possible health benefits from taking Vitamin C supplements if you are concerned about becoming plagued by the common cold, but it is important to take note that the effects of supplementation are not the same for everyone!	NONE
+10	Does Vitamin C prevent common cold?	Britons are wasting million of pounds buying Vitamin C supplements to ward off colds after researchers found they have no benefit at all.	AGAINST
+260	Does Vitamin C prevent common cold?	Although Cochrane review found no evidence to support an effect in preventing colds, this was probably because doses higher than those usually taken are needed .	FAVOR
+124	Does Vitamin C prevent common cold?	The Coulehan team reported in 1974 that the vitamin C group had less severe colds.	FAVOR
+33	Does Vitamin C prevent common cold?	When it comes to flu, one�person�in three believes that taking vitamin C can cure the flu virus.	NONE
+86	Does Vitamin C prevent common cold?	The authors concluded that vitamin C was effective in fighting off common cold.	FAVOR
+264	Does Vitamin C prevent common cold?	Vitamin C may be effective for the common cold for specific types of people, she adds.	FAVOR
+221	Does Vitamin C prevent common cold?	Vitamin C is a potent antioxidant, able to neutralize unstable oxygen molecules that might otherwise damage DNA.	NONE
+37	Does Vitamin C prevent common cold?	The study of vitamin C became very popular after Linus Pauling, a Nobel Laureate in chemistry, claimed that it prevented many different diseases, including the common cold.	FAVOR
+140	Does Vitamin C prevent common cold?	The many studies done in the last 30 years clearly prove that daily vitamin C supplements, whether 100 mg or 5,000 mg, do not prevent colds and provide, but only for some people, only a slight reduction in duration and severity of colds.	AGAINST
+16	Does Vitamin C prevent common cold?	It is the UK�s most popular vitamin with annual sales of around �36 million.	NONE
+193	Does Vitamin C prevent common cold?	For smokers, the recommended intake is 35mg/day higher than for nonsmokers, because smokers are under increased oxidative stress from the toxins in cigarette smoke and generally have lower blood levels of vitamin C. 	NONE
+243	Does Vitamin C prevent common cold?	Whether vitamin C is a reasonable way to treat the common cold remains a more open question.	NONE
+67	Does Vitamin C prevent common cold?	A study carried out in 2010 found participants taking vitamin C daily had less severe cold symptoms but only if they started taking vitamin C prior to developing cold symptoms.	FAVOR
+132	Does Vitamin C prevent common cold?	No reduction in the incidence of colds was observed, but those taking vitamin C averaged less time at home (1.62 vs. 1.12 days indoors).	FAVOR
+154	Does Vitamin C prevent common cold?	Similarly they found a 17% decrease in the duration of the common cold amongst participants that consumed 6000mg/day.	FAVOR
+115	Does Vitamin C prevent common cold?	Pauling himself reportedly took 12,000 mg daily and raised it to 40,000 mg when symptoms of a cold appeared!	NONE
+137	Does Vitamin C prevent common cold?	Of these, 12 trials showed no prevention and no reduction in duration or severity, five trials showed no prevention and only slight, statistically nonsignificant lessening of severity, and the other five trials reported no prevention and a small but significant in reduction of duration of the colds.	NONE
+262	Does Vitamin C prevent common cold?	There is very little evidence demonstrating that vitamin C has any significant effect on the common cold.	AGAINST
+77	Does Vitamin C prevent common cold?	When you weigh the benefits and downsides, the scales tip strongly towards not taking high-dose vitamin C. 	AGAINST
+18	Does Vitamin C prevent common cold?	However a recent Cochrane review found that regular Vitamin C supplements had no effect on common cold incidence although it may shorten the time the disease lasts.	FAVOR
+192	Does Vitamin C prevent common cold?	Women need 60mg of vitamin C daily.	NONE
+216	Does Vitamin C prevent common cold?	Vitamin C doesn�t prevent colds.	AGAINST
+93	Does Vitamin C prevent common cold?	Unfortunately however, although commonly thought to, Vitamin C does not offer a great deal of protection against the common cold.	AGAINST
+119	Does Vitamin C prevent common cold?	So far, at least 30 experiments have tested the ability of vitamin C to protect against colds in large groups of people.	NONE
+92	Does Vitamin C prevent common cold?	These four important functions of vitamin C work together to safely and effectively reduce the frequency, severity, and duration of a cold.	FAVOR
+173	Does Vitamin C prevent common cold?	The NHS advises not to take more than 1,000mg daily.	NONE
+55	Does Vitamin C prevent common cold?	Taking vitamin C as a treatment at the beginning of a cold doesn't make any important difference with the duration and severity of symptoms.	AGAINST
+251	Does Vitamin C prevent common cold?	As for the flu, there are no modern studies suggesting that the vitamin can help prevent the flu, though research from the 1940s and 1950s hints at a protective effect, Lawson said.	NONE
+210	Does Vitamin C prevent common cold?	People in extremely good physical condition, such as marathon runners, who took vitamin C every day cut their risk of catching a cold in half.	FAVOR
